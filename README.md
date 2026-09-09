@@ -1,4 +1,4 @@
-# Leveraging Graph Neural Networks for Illicit Transaction Detection
+#Fraud Detection in Bitcoin Transactions using Graph Neural Networks
 
 Detecting fraudulent Bitcoin transactions using Graph Neural Networks (GNNs) on the Elliptic dataset. Unlike traditional ML models that treat transactions in isolation, this project exploits the transaction graph structure to capture coordinated fraud patterns — achieving stronger detection through relational learning.
 
